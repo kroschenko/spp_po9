@@ -24,7 +24,7 @@
 |2|Бердникова Вероника|[Veroniiika](https://github.com/Veroniiika)|[210651](./trunk//PO-9_210651)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |4|Дарашкевич Дмитрий |[DarashkevichDmitriy](https://github.com/DarashkevichDmitriy)|[210653](./trunk/PO-9_210653/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |5|Зейденс Никита |[NiKiTjAOFF](https://github.com/NIKITJAOFF)|[210654](./trunk/PO-9_210654/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
-|6|Зеленков Константин |[Pandus](https://github.com/Pandusss)|[210655](./trunk/PO-9_210655/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+|6|Зеленков Константин |[Pandus](https://github.com/Pandusss)|[210655](./trunk/PO-9_210655/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |7|Качаловский Данил |[dkachalovskiy](https://github.com/dkachalovskiy)|[210656](./trunk/PO-9_210656/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |8|Кот Анастасия |[peppemintu](https://github.com/peppemintu)|[210657](./trunk//PO-9_210657)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |9|Кухарев Дмитрий |[Ian3707](https://github.com/Ian3707)|[210658](./trunk//PO-9_210658)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
