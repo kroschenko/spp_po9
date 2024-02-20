@@ -27,7 +27,7 @@
 |6|Зеленков Константин |[Pandus](https://github.com/Pandusss)|[210655](./trunk/PO-9_210655/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |7|Качаловский Данил |[dkachalovskiy](https://github.com/dkachalovskiy)|[210656](./trunk/PO-9_210656/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |8|Кот Анастасия |[peppemintu](https://github.com/peppemintu)|[210657](./trunk//PO-9_210657)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
-|9|Кухарев Дмитрий |[Ian3707](https://github.com/Ian3707)|[210658](./trunk//PO-9_210658)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+|9|Кухарев Дмитрий |[Ian3707](https://github.com/Ian3707)|[210658](./trunk//PO-9_210658)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |10|Кучко Ярослав |[YaroslavKuchko26](https://github.com/YaroslavKuchko26)|[210659](./trunk//PO-9_210659)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |11|Лебедович Вадим|[thet1xx](https://github.com/thet1xx)|[210660](./trunk/PO-9_210660)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |12|Марзан Андрей | [Nenroin](https://github.com/Nenroin) | [210661](./trunk/PO-9_210661/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
