@@ -5,10 +5,9 @@ public class Main3 {
         String abreviate = "";
         String abb[] = str.split(" ");
         for (int i = 0; i < abb.length; i++) {
-            abreviate += abb[i].charAt(0) + ".";
+            abreviate += abb[i].charAt(0);
         }
-        abreviate = abreviate.substring(0, abreviate.length() - 1);
-
+        
         return abreviate;
     }
 
