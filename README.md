@@ -20,7 +20,7 @@
 
 |№|ФИО|GitHub username|№ зачетки/студенческого|#1|#2|#3|#4|#5|#6|#7|
 |---|---|---|---|---|---|---|---|---|---|---|
-|1|Аксютик Демьян|||:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+|1|Аксютик Демьян||[210650](./reports/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |2|Бердникова Вероника|[Veroniiika](https://github.com/Veroniiika)|[210651](./reports/Berdnikova/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |4|Дарашкевич Дмитрий |[DarashkevichDmitriy](https://github.com/DarashkevichDmitriy)|[210653](./reports/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |5|Зейденс Никита |[NiKiTjAOFF](https://github.com/NIKITJAOFF)|[210654](./reports/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
