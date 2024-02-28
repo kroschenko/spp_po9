@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         double[] array = new double[args.length];
         Scanner scanner = new Scanner(System.in);
 
@@ -10,7 +10,12 @@ public class Task2 {
             array[i] = Double.parseDouble(args[i]);
         }
         System.out.println("Введите индекс и число: ");
-        array = Add(array, scanner.nextInt(), scanner.nextInt());
+        int index=scanner.nextInt();
+        if ( index> args.length || index<0)
+        {
+            throw new Exception("Index out of bounds");
+        }
+        array = Add(array, index, scanner.nextInt());
         for (double i : array) {
             System.out.print(i+ " ");
         }
