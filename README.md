@@ -23,7 +23,7 @@
 |1|Аксютик Демьян||[210650](./reports/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |2|Бердникова Вероника|[Veroniiika](https://github.com/Veroniiika)|[210651](./reports/Berdnikova/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |4|Дарашкевич Дмитрий |[DarashkevichDmitriy](https://github.com/DarashkevichDmitriy)|[210653](./reports/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
-|5|Зейденс Никита |[NiKiTjAOFF](https://github.com/NIKITJAOFF)|[210654](./reports/)|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+|5|Зейденс Никита |[NiKiTjAOFF](https://github.com/NIKITJAOFF)|[210654](./reports/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |6|Зеленков Константин |[Pandus](https://github.com/Pandusss)|[210655](./reports/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 |7|Качаловский Данил |[dkachalovskiy](https://github.com/dkachalovskiy)|[210656](./reports/Kachalovskiy/)|✅|✅|:x:|:x:|:x:|:x:|:x:|:x:|
 |8|Кот Анастасия |[peppemintu](https://github.com/peppemintu)|[210657](./reports/Kot/)|✅|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
