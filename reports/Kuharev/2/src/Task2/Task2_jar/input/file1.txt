@@ -1,9 +1,0 @@
-1 first
-2 record
-4 is
-7 text
-8 alala
-this 9
-can 10
-compare 11
-too 12

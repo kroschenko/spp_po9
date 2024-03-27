@@ -1,3 +1,0 @@
-1 abc
-2 lmn
-3 pqr

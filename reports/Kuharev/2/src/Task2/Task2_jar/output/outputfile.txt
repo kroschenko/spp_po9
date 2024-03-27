@@ -1,4 +1,0 @@
-this 9 3
-can 10 1b
-compare 11 2t
-too 12 j
